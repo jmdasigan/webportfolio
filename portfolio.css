@@ -1,0 +1,30 @@
+/*CSS-Reset*/
+* {
+		    margin: 0;
+		    padding: 0;
+		    box-sizing: border-box;
+		}
+
+/*Google Font*/
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+	padding: 0.8rem;
+	color: white;
+	background-color: gray;
+}
+
+#profilePicture {
+	border-radius: 50%;
+ 	border: 1px dimgray;
+ 	width: 300px;
+ 	height: auto;
+}
+
+#home {
+	color: saddlebrown;
+	background-color: beige;
+}
+
