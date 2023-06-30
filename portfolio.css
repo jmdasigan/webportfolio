@@ -10,21 +10,30 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
-nav {
-	padding: 0.8rem;
-	color: white;
-	background-color: gray;
+#navbar {
+	font-family: monospace;
+	background-color: white;
+	box-shadow: 3px 3px 3px lightgray;
+}
+
+#landing{
+	color: black;
+	background-color: rosybrown;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 50px;
+	width: auto;
+	border-radius: 20px;
 }
 
 #profilePicture {
 	border-radius: 50%;
  	border: 1px dimgray;
- 	width: 300px;
+ 	width: 200px;
  	height: auto;
 }
 
-#home {
-	color: saddlebrown;
-	background-color: beige;
-}
 
+#projects{
+	color: black;
+}
